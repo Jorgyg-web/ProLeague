@@ -1,0 +1,15 @@
+[
+    {
+        "nombre": "Jordi",
+        "num_equipos": 2,
+        "formato": "eliminatorias",
+        "categoria": "Mixto",
+        "fecha_inicio": "2025-05-08",
+        "fecha_fin": "2025-05-24",
+        "equipos": [
+            "Los Tigres",
+            "Jordi"
+        ],
+        "fecha_creacion": "2025-05-26 22:39:18"
+    }
+]
